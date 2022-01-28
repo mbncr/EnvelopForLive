@@ -1,0 +1,43 @@
+----------------------------------------------------------------------------
+Envelop for Live 11.0.0
+August 9, 2021
+----------------------------------------------------------------------------
+- Updated to latest versions of ICST Ambisonics and CNMAT ODOT libraries
+- Tested against Ableton 11
+
+----------------------------------------------------------------------------
+Envelop for Live 10.0.3
+January 21, 2019
+----------------------------------------------------------------------------
+- UI cleanups and refinement on all devices
+- New Mono/Stereo/Quad panner devices with built-in LFOs
+- Improve distance panning on Source Panner + B-Convolution Reverb
+- New Delay Boids and Spatial Slicer devices
+
+----------------------------------------------------------------------------
+Envelop for Live 10.0.2
+June 14, 2018
+----------------------------------------------------------------------------
+- Bug fixes to E4L Source Panner interpolation
+- Fix 4/16 channel recording on E4L Master Bus
+- New AuraVerb reverb device
+- New Brownian Delay randomized delay device
+- Fix short name conflicts of Spread parameters on E4L Source Panner
+
+----------------------------------------------------------------------------
+Envelop for Live 10.0.1
+May 7, 2018
+----------------------------------------------------------------------------
+- Ability to record multi-channel Ambisonics AIFF files from the E4L Master
+  Bus device
+- Fixes to the E4L Source Panner so that saved preset settings are properly
+  recalled
+
+----------------------------------------------------------------------------
+Envelop for Live 10.0.0
+Apr 18, 2018
+----------------------------------------------------------------------------
+The official first release of Envelop for Live 10! This new version of
+Envelop for Live takes advantage of the multi-channel audio routing features
+of Max for Live in version 10, enabling full Ambisonic spatial audio
+processing and decoding entirely within Live 10.
